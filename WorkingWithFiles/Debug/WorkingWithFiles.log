@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\chris\source\repos\WorkingWithFiles\Source.cpp(20,31): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\chris\source\repos\WorkingWithFiles\Source.cpp(54,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\chris\source\repos\WorkingWithFiles\Source.cpp(78,20): warning C4018: '<': signed/unsigned mismatch
+  WorkingWithFiles.vcxproj -> C:\Users\chris\source\repos\WorkingWithFiles\Debug\WorkingWithFiles.exe
