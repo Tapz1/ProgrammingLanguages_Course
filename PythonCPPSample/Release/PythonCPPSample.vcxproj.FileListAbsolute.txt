@@ -1,1 +1,2 @@
 C:\Users\chris\source\repos\PythonCPPSample\Release\PythonCPPSample.exe
+C:\Users\chris\Documents\Coding\Programming Languages\labs\PythonCPPSample\Release\PythonCPPSample.exe
